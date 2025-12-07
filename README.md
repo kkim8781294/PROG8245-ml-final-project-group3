@@ -6,7 +6,7 @@
 - Kihoon Kim
 
 ## How to Run  
-1. Clone the repository: git clone 'Repo URL(Change)'  
+1. Clone the repository: git clone 'Repo URL-Change this part)'  
 2. Create a Python virtual environment & Activate  
 3. Install dependencies: pip install -r requirements.txt  
 4. Run the Jupyter Notebook: TextClassificationFinalProjectGroup3.ipynb  
